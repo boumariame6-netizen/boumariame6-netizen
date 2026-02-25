@@ -33,6 +33,10 @@ I bridge the gap between seamless user interfaces and robust server-side logic. 
 
 ---
 
+## 📚 Previous Work & Learning Journey
+I have a collection of my early projects and academic work hosted on my [previous GitHub account](https://github.com/sommaryam). 
+These projects showcase my growth from core PHP to modern Full-Stack development.
+
 <h3 align="center">📊 My GitHub Metrics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boumariame6-netizen&show_icons=true&theme=dracula&hide_border=true&border_radius=12" width="48%" />
