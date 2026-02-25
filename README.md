@@ -1,58 +1,49 @@
 <h1 align="center"> Mariame Boughamir 👩‍💻 </h1>
 
- <h3 align="center"> Web Developer | Frontend Focused | Continuous Learner </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+End-to-End+Solutions;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
+Versatile **Full-Stack Developer** passionate about building complete, scalable, and user-centric web applications. 
 
-Self-driven Web Developer with a strong focus on frontend development and modern web technologies.
-
-I continuously improve my skills by building real-world projects and exploring new tools and frameworks.
-
-Currently expanding my knowledge in full-stack development.
+I bridge the gap between seamless user interfaces and robust server-side logic. From architecting databases to polishing frontend components, I thrive on the challenge of the entire development lifecycle.
 
 ---
-<p align="center">
-## 🛠 Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=61DAFB)
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1C.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <br/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/terminal-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
 
-### Backend
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat-square)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-</p>
 ---
 
 <h3 align="center">📊 My GitHub Metrics</h3>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boumariame6-netizen&theme=dracula&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boumariame6-netizen&show_icons=true&theme=dracula&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boumariame6-netizen&theme=dracula&hide_border=true&border_radius=12" width="48%" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Mariame's+Code+Journey...;Building+Cool+Apps;Eating+Bugs+for+Breakfast" alt="Typing SVG" />
-</p>
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="98%" />
 </p>
 
----
-
 ## 🎯 Focus
-
-Building scalable, clean, and modern web applications.
+Designing and developing high-performance, full-stack web applications with clean code and modern architecture.
