@@ -1,43 +1,36 @@
-# Hi, I'm Mariam Boughamir 👋
+# Mariam Boughamir 👩‍💻
 
-💻 Web Developer  
-🚀 Self-Taught Developer  
- 
+### Web Developer | Frontend Focused | Continuous Learner
 
 ---
 
-## 💪 About Me
+## 🚀 About Me
 
-I am a motivated and self-driven Web Developer.  
-Graduated and continuously improving my skills through self-learning and real projects.
+Self-driven Web Developer with a strong focus on frontend development and modern web technologies.
 
-🔥 Currently developing myself in:
-- Angular
-- React
-- Backend with Laravel
-- Databases (MySQL & NoSQL)
+I continuously improve my skills by building real-world projects and exploring new tools and frameworks.
 
-I believe in consistency, discipline, and building real-world projects to grow.
+Currently expanding my knowledge in full-stack development.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🖥 Backend
+### Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### 🗄 Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat-square)
 
-### ⚙ Tools
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
@@ -46,10 +39,10 @@ I believe in consistency, discipline, and building real-world projects to grow.
 
 ## 📈 GitHub Stats
 
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🎯 Goal
+## 🎯 Focus
 
-To become a strong full-stack developer and work on impactful real-world applications.
+Building scalable, clean, and modern web applications.
