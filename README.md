@@ -13,7 +13,7 @@ I continuously improve my skills by building real-world projects and exploring n
 Currently expanding my knowledge in full-stack development.
 
 ---
-
+<p align="center">
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -34,7 +34,7 @@ Currently expanding my knowledge in full-stack development.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-
+</p>
 ---
 
 ## 📈 GitHub Stats
