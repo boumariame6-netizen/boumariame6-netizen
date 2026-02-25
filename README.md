@@ -1,4 +1,4 @@
-# Mariam Boughamir 👩‍💻
+# Mariame Boughamir 👩‍💻
 
 ### Web Developer | Frontend Focused | Continuous Learner
 
