@@ -1,6 +1,6 @@
-# Mariame Boughamir 👩‍💻
+<h1 align="center"> Mariame Boughamir 👩‍💻 </h1>
 
-### Web Developer | Frontend Focused | Continuous Learner
+ <h3 align="center"> Web Developer | Frontend Focused | Continuous Learner </h3>
 
 ---
 
